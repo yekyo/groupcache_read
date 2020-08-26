@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="76bf153d-7be7-4b05-b71c-1dbd3045c41f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleflight/singleflight.go" beforeDir="false" afterPath="$PROJECT_DIR$/singleflight/singleflight.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/byteview.go" beforeDir="false" afterPath="$PROJECT_DIR$/byteview.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sinks.go" beforeDir="false" afterPath="$PROJECT_DIR$/sinks.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,5 +46,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877/1440.23.1841.1057@0.23.1440.877" timestamp="1597287855887" />
+    <state x="421" y="216" width="598" height="490" key="find.popup" timestamp="1598323218678">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="421" y="216" width="598" height="490" key="find.popup/0.23.1440.877/1440.23.1841.1057@0.23.1440.877" timestamp="1598323218678" />
   </component>
 </project>
